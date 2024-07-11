@@ -1,5 +1,3 @@
-*** Thanks for installing clyt v1.0.0 ***
-
 clyt stands for Command Line YouTube.
 
 It is a simple downloader for YouTube videos in audio/video format.
